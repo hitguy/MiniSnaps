@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/item1"
+        android:title="Add"
+        android:icon = "@drawable/plus"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/check"
+        android:title="delete"
+        android:icon = "@drawable/checkicon"
+        app:showAsAction="always"
+        android:visible="false"/>
+
+    <item android:id="@+id/cancel"
+        android:title="canceldelete"
+        android:icon = "@drawable/cancelicon"
+        app:showAsAction="always"
+        android:visible= "false"/>
+
+    <item android:id="@+id/item3"
+        android:title="Delete multiple notes"
+        android:icon = "@drawable/delete"
+        />
+
+    <item android:id="@+id/chooseall"
+        android:title="Choose all"
+        android:visible= "false"/>
+
+
+    <item android:id="@+id/item4"
+        android:title="Log Out"
+        android:icon = "@drawable/delete"
+        />
+
+
+</menu>

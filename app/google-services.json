@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190620934047",
+    "firebase_url": "https://minisnaps-1d9c9.firebaseio.com",
+    "project_id": "minisnaps-1d9c9",
+    "storage_bucket": "minisnaps-1d9c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190620934047:android:4f30f277ba315260",
+        "android_client_info": {
+          "package_name": "com.example.peira.minisnaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190620934047-s1pmdg21a8uf58g6o65d9nsdvqundvqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peira.minisnaps",
+            "certificate_hash": "9DA101FE4257D083EA7E1622EEA24C7E24E098A2"
+          }
+        },
+        {
+          "client_id": "190620934047-erdt68n24fid05bv7kr5cri78kd14ura.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd9sqwB4YSHrjIhBpxEuocA1HymBlLldQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190620934047-erdt68n24fid05bv7kr5cri78kd14ura.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

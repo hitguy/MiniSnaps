@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiniSnaps</string>
+    <string name="login">Log in</string>
+    <string name="register">Register</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+</resources>
